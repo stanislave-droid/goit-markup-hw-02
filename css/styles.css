@@ -1,6 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
   color: #434455;
+  background-color: #fff;
 }
 
 ul {
@@ -137,6 +138,7 @@ a {
 /* ----------------- TEAM ----------------- */
 
 .team {
+  background-color: #f4f4fd;
 }
 
 .team-heading {
@@ -151,6 +153,7 @@ a {
 }
 
 .team-items {
+  background-color: #fff;
 }
 
 .team-items-img {
